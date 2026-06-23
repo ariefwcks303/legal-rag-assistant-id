@@ -1,0 +1,2 @@
+Fine_tune_model_1 : https://huggingface.co/ariefw666/qwen-finetuned-legal-16bit-model-1
+Fine_tune_model_2 : https://huggingface.co/ariefw666/qwen-finetuned-legal-16bit-model-2
